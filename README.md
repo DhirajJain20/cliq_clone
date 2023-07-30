@@ -69,7 +69,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 - Other libraries and tools may have been used for specific features.
 
-### 💼 Contributions :
+## 💼 Contributions :
 
 **Team-Lead : Sarthak Pati**
 
