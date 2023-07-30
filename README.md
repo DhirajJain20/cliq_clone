@@ -10,7 +10,7 @@ This repository contains a clone of the **Tata CliQ** website built using React.
 - Technologies Used
 - Contributions
 
-### `🖼️ Demo : `
+## 🖼️ Demo :
 
 - **Landing Page Image 1**
   ![Clip-1](/src/Cliq/Cliq-1.jpeg)
@@ -32,7 +32,7 @@ This repository contains a clone of the **Tata CliQ** website built using React.
 
 <hr>
 
-### `⚙️ Installation : `
+## ⚙️ Installation :
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -51,7 +51,7 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `📜 Features : `
+## 📜 Features :
 
 - Browse and search for products.
 - Filter products by categories, brands, and other attributes.
@@ -60,16 +60,16 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - Manage the shopping cart ( Add / Remove items) .
 - Checkout process with shipping and payment options .
 
-## `🧩 Technologies Used :`
+## 🧩 Technologies Used :
 
 `React.js` : A popular JavaScript library for building user interfaces.\
 `HTML/CSS` : For structuring the pages and styling the components.\
 `Axios` : For making HTTP requests to fetch data from APIs.\
-`React Router` : For handling routing within the application.\
+`React Router` : For handling routing within the application.
 
 - Other libraries and tools may have been used for specific features.
 
-### `💼 Contributions :`
+### 💼 Contributions :
 
 **Team-Lead : Sarthak Pati**
 
