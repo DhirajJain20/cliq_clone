@@ -75,10 +75,10 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 | Team Members                                                                                            | Github-Profile                                         |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| <img src="https://avatars.githubusercontent.com/u/119130072?v=4" width="20px;" alt=""/> Dhiraj Jain     | [@DhirajJain20](https://github.com/DhirajJain20)       |
-| <img src="https://avatars.githubusercontent.com/u/98378534?v=4" width="20px;" alt=""/> Navneet Singh    | [@nav2103](https://github.com/nav2103)                 |
-| <img src="https://avatars.githubusercontent.com/u/33249404?v=4" width="20px;" alt=""/> Nikhil Bhuyan    | [@Nikhilbhuyan](https://github.com/Nikhilbhuyan)       |
-| <img src="https://avatars.githubusercontent.com/u/102925712?v=4" width="20px;" alt=""/> Sarthak Pati    | [@Stk-79](https://github.com/Stk-79)                   |
-| <img src="https://avatars.githubusercontent.com/u/112257610?v=4" width="20px;" alt=""/> Shraddha Mishra | [@shraddhamishra2](https://github.com/shraddhamishra2) |
+| <img src="https://avatars.githubusercontent.com/u/119130072?v=4" width="30px;" alt=""/> Dhiraj Jain     | [@DhirajJain20](https://github.com/DhirajJain20)       |
+| <img src="https://avatars.githubusercontent.com/u/98378534?v=4" width="30px;" alt=""/> Navneet Singh    | [@nav2103](https://github.com/nav2103)                 |
+| <img src="https://avatars.githubusercontent.com/u/33249404?v=4" width="30px;" alt=""/> Nikhil Bhuyan    | [@Nikhilbhuyan](https://github.com/Nikhilbhuyan)       |
+| <img src="https://avatars.githubusercontent.com/u/102925712?v=4" width="30px;" alt=""/> Sarthak Pati    | [@Stk-79](https://github.com/Stk-79)                   |
+| <img src="https://avatars.githubusercontent.com/u/112257610?v=4" width="30px;" alt=""/> Shraddha Mishra | [@shraddhamishra2](https://github.com/shraddhamishra2) |
 
 > If you encounter any bugs, have questions, or need further assistance, please feel free to open an issue.
